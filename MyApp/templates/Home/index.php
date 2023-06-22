@@ -1,1 +1,1 @@
-<?=$this->Html->link("link", "home/index")?>
+<a> <?= $this->Html->link("link", "home/index")?> </a>
